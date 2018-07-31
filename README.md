@@ -1,4 +1,4 @@
-# ForkNote-webwallet
+# Cryptono-webwallet
 ## word before starting
 If using this please provide credits to me
 Word before hand this is kind of raw code if you encounter any bugs or whatsoever or security flaws within wallet code (not the login system) feel free to contact me at thecryptowriter@gmail.com.
